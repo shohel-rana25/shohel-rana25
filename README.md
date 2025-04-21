@@ -5,9 +5,9 @@
 
 - 🔭 I studied Computer Science and Engineering at [Islamic University Bangladseh](https://www.iu.ac.bd/)
 
-- 🌱 I’m currently learning **Django Rest Framework**
-
 - 🌱 I’m competitive programmer **problem solve online judge like Codeforce , Codechef, Leetcode, Atcoder etc**
+
+- 🌱 I’m currently learning **Django Rest Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shohel-rana25?tab=repositories](https://github.com/shohel-rana25?tab=repositories)
 
