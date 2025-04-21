@@ -6,6 +6,7 @@
 - 🔭 I studied Computer Science and Engineering at [Islamic University Bangladseh](https://www.iu.ac.bd/)
 
 - 🌱 I’m competitive programmer **problem solve online judge like Codeforce , Codechef, Leetcode, Atcoder etc**
+- 🌱 I have solved over 1600+ data structure and algorithmic problem and participated over 200+ online coding contest and 10+ onsite coding contest.
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
