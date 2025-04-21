@@ -1,4 +1,5 @@
-## Hi there 👋
+##  Dedicated to learning and passionate about programming 
+👋
 
 
 **shohel-rana25/shohel-rana25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
