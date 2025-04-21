@@ -3,17 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohel-rana25&label=Profile%20views&color=0e75b6&style=flat" alt="shohel-rana25" /> </p>
 
+- 🔭 I studied Computer Science and Engineering at [Islamic University Bangladseh](https://www.iu.ac.bd/)
+
 - 🌱 I’m currently learning **Django Rest Framework**
 
+- 🌱 I’m competitive programmer **problem solve online judge like Codeforce , Codechef, Leetcode, Atcoder etc**
+
 - 👨‍💻 All of my projects are available at [https://github.com/shohel-rana25?tab=repositories](https://github.com/shohel-rana25?tab=repositories)
+
+- 📝 I regularly problem solving [https://codeforces.com/profile/BISMILLAHIRRAHMANIRRAHIM](https://codeforces.com/profile/BISMILLAHIRRAHMANIRRAHIM)
 
 - 💬 Ask me about **Problem solving**
 
 - 📫 How to reach me **mohammadsrd25@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/md-shohel-rana-9241b4286/overlay/1742746969001/single-media-viewer/?profileId=ACoAAEVwxywBMgXEniW53bTteHPi23EKvvRaC6Y](https://www.linkedin.com/in/md-shohel-rana-9241b4286/overlay/1742746969001/single-media-viewer/?profileId=ACoAAEVwxywBMgXEniW53bTteHPi23EKvvRaC6Y)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shohel-rana25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohel-rana25" height="30" width="40" /></a>
+<a href="https://fb.com/md shohel rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md shohel rana" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohammad_sr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammad_sr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mohammadsrd25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohammadsrd25" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bismillahirrahmanirrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bismillahirrahmanirrahim" height="30" width="40" /></a>
