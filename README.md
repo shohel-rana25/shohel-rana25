@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohammadsrd25@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/md-shohel-rana-9241b4286/overlay/1742746969001/single-media-viewer/?profileId=ACoAAEVwxywBMgXEniW53bTteHPi23EKvvRaC6Y](https://www.linkedin.com/in/md-shohel-rana-9241b4286/overlay/1742746969001/single-media-viewer/?profileId=ACoAAEVwxywBMgXEniW53bTteHPi23EKvvRaC6Y)
+- 📄 My Resume [https://www.linkedin.com/in/md-shohel-rana-9241b4286/overlay/1742746969001/single-media-viewer/?profileId=ACoAAEVwxywBMgXEniW53bTteHPi23EKvvRaC6Y](https://www.linkedin.com/in/md-shohel-rana-9241b4286/overlay/1742746969001/single-media-viewer/?profileId=ACoAAEVwxywBMgXEniW53bTteHPi23EKvvRaC6Y)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
