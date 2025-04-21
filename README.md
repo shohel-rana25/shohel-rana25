@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. SHOHEL RANA</h1>
-<h3 align="center">Dedicated to learning and passionate about competitive programming</h3>
+<h2 align="center">Dedicated to learning and passionate about competitive programming</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohel-rana25&label=Profile%20views&color=0e75b6&style=flat" alt="shohel-rana25" /> </p>
 
