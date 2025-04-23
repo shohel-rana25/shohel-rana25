@@ -1,5 +1,5 @@
+<h1 align="center">👋 আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ 👋 </h1>
 <h1 align="center">Hi 👋, I'm MD. SHOHEL RANA</h1>
-<h1 align="center">Welcome To My Github Profile  </h1>
 <h2 align="center">Dedicated to learning and passionate about competitive programming</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohel-rana25&label=Profile%20views&color=0e75b6&style=flat" alt="shohel-rana25" /> </p>
